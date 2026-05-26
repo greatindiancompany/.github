@@ -1,85 +1,74 @@
 # Great Indian Company
 
-**Applied AI, commerce infrastructure, and useful software from India.**
+**Applied AI from India for the world.**
 
-Great Indian Company is a Bengaluru-rooted product lab building practical systems for the next wave of Indian technology. We started building on top of GPT-3 before ChatGPT made the category obvious, shipped a portfolio of generative AI products, turned one of them into an AI-first commerce business, and now build small, sharp products that solve real operator problems.
+`Bengaluru` / `Dubai` / `London` / `California`  
+`GPT-3 before ChatGPT` / `commerce ops` / `learning systems` / `shipping over theatre`
+
+Great Indian Company is one of India's earliest applied-AI product labs. We started building on GPT-3 in September 2022, before ChatGPT made the category obvious, then spent the next wave shipping real products into messy markets.
+
+Some worked. Some were wrappers. One became a pet-commerce company. That got acquired. The useful parts became infrastructure.
 
 [Website](https://www.greatindiancompany.com) / [X](https://x.com/greatindianco) / [LinkedIn](https://linkedin.com/company/greatindiancompany) / [Instagram](https://www.instagram.com/greatindiancompany) / [Facebook](https://www.facebook.com/greatindiancompany)
 
-![Applied AI](https://img.shields.io/badge/Applied_AI-111111?style=flat)
-![Commerce Ops](https://img.shields.io/badge/Commerce_Ops-0F766E?style=flat)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Applied AI](https://img.shields.io/badge/applied_ai-111111?style=flat)
+![India](https://img.shields.io/badge/from_india-ff6f00?style=flat)
+![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![Astro](https://img.shields.io/badge/astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ## Start Here
 
-- [Mark Delivered](https://apps.shopify.com/mark-delivered) - Shopify app for merchants who need to mark orders delivered when carrier tracking is missing, unsupported, or stuck.
-- [Mark Shipping Status](https://apps.shopify.com/mark-shipping-status) - Shopify app for manually updating fulfillment timelines with statuses like in transit, out for delivery, delayed, attempted delivery, and delivered.
-- [greatindiancompany.com](https://www.greatindiancompany.com) - our company surface.
-- Pet Dukaan - AI-first pet commerce product that grew out of a RAG-based shopping assistant and was later acquired by Roms N Raks.
-- Inspir - learning community and AI education platform built around free, accessible, game-like learning.
+- [greatindiancompany](https://github.com/greatindiancompany/greatindiancompany) - the company site rebuilt in Astro, with static output, content automation, sitemap generation, and Cloudflare deploys.
+- [inspir-landing](https://github.com/greatindiancompany/inspir-landing) - public site for Inspir, our learning platform.
+- [ai-learning-platform](https://github.com/greatindiancompany/ai-learning-platform) - AI study companion prototype with React, Node/Express, Supabase, streaming responses, and student tools.
+- [ai-study-platform](https://github.com/greatindiancompany/ai-study-platform) - auth and student-workflow branch for the AI learning product.
+- [Mark Delivered](https://apps.shopify.com/mark-delivered) - Shopify app for merchants who need to mark orders delivered when tracking breaks, is missing, or never existed.
+- [Mark Shipping Status](https://apps.shopify.com/mark-shipping-status) - Shopify app for manually updating delivery timelines: in transit, out for delivery, delayed, attempted, delivered.
 
-## What We Build
+## Current Bias
+
+- Applied AI that survives contact with users.
+- Commerce tooling for operators doing unglamorous work at scale.
+- Learning software that makes hard things feel playable.
+- India as the default context; the world as the default market.
+
+## Shipped Lore
+
+- **Pre-ChatGPT GPT-3 apps** - started building applied-AI products around September 2022, roughly two months before ChatGPT launched.
+- **15+ AI products** - shipped across productivity, HRTech, education, and commerce; several hit Product Hunt top-10 launches.
+- **Pet Dukaan** - RAG-based pet-care and shopping assistant that grew into AI-first commerce, reached 100,000+ users, did roughly $500K revenue, then got acquired by Roms N Raks.
+- **Roms N Raks digital division** - post-acquisition ecommerce operations scaled to roughly $7M revenue.
+- **Inspir** - started as a quiz and learning community; now becoming an AI learning platform for free, fun, accessible education.
+
+## Repos
+
+### Company Core
+
+- [greatindiancompany](https://github.com/greatindiancompany/greatindiancompany) - Astro company site, brand surface, blog/content system, sitemap tooling.
+- [.github](https://github.com/greatindiancompany/.github) - this profile and org defaults.
+
+### Learning Systems
+
+- [inspir-landing](https://github.com/greatindiancompany/inspir-landing) - Astro landing site for Inspir.
+- [ai-learning-platform](https://github.com/greatindiancompany/ai-learning-platform) - AI study companion prototype.
+- [ai-study-platform](https://github.com/greatindiancompany/ai-study-platform) - AI study platform branch with auth and student-facing workflow work.
 
 ### Commerce Ops
 
-Software for ecommerce operators who live in the gap between what platforms support and what customers expect. The current public products focus on fulfillment, delivery status, and manual operations that become expensive when teams handle them order by order.
+- [Mark Delivered](https://apps.shopify.com/mark-delivered) - live Shopify app.
+- [Mark Shipping Status](https://apps.shopify.com/mark-shipping-status) - live Shopify app.
+- More commerce tooling moves here as it becomes clean enough to expose.
 
-- [Mark Delivered](https://apps.shopify.com/mark-delivered)
-- [Mark Shipping Status](https://apps.shopify.com/mark-shipping-status)
+## Philosophy
 
-### Applied AI
+> Great Indian Company is not just a name. It is an assertion.
 
-We build AI products only when the model can become a workflow, not a demo. Our work has included retrieval-augmented product discovery, AI assistants, workplace search, learning systems, and internal operations tooling.
+We are building for the Indian century: not as slogan, not as geography trivia, but as an operating assumption. The next computing era should work for students, merchants, operators, teachers, families, and builders across the subcontinent first, then travel outward.
 
-### Product Lab
+We like products that are small enough to ship, useful enough to survive, and weird enough to teach us something.
 
-Great Indian Company has shipped 15+ AI products across productivity, HRTech, learning, and commerce, including Product Hunt launches, small acquisitions, and commercial products that moved from experiment to revenue.
+## Connect
 
-The operating pattern is simple:
-
-1. Build quickly.
-2. Ship to real users.
-3. Learn from usage.
-4. Keep the parts that become useful infrastructure.
-
-## Built Before
-
-- **Pet Dukaan** - RAG-based conversational pet commerce, scaled to 100,000+ users and roughly $500K revenue before acquisition.
-- **Roms N Raks digital division** - post-acquisition ecommerce operations scaled to roughly $7M revenue.
-- **Generative AI portfolio** - 15+ products shipped in the first GPT application wave, including consecutive Product Hunt top-10 launches.
-- **Inspir** - a learning platform and community that began as a quiz network and grew into an AI learning system.
-
-## Repositories
-
-This organization is the public engineering home for Great Indian Company. The current public repos are a mix of company web infrastructure, Inspir surfaces, and AI study-platform experiments.
-
-- [.github](https://github.com/greatindiancompany/.github) - organization profile and community defaults.
-- [greatindiancompany](https://github.com/greatindiancompany/greatindiancompany) - Astro rebuild of the company site, with static output, content automation, sitemap generation, and Cloudflare deployment.
-- [inspir-landing](https://github.com/greatindiancompany/inspir-landing) - Astro landing site for Inspir.
-- [ai-learning-platform](https://github.com/greatindiancompany/ai-learning-platform) - AI study companion prototype with React, Node/Express, Supabase, streaming responses, and student tooling.
-- [ai-study-platform](https://github.com/greatindiancompany/ai-study-platform) - AI study platform branch exploring auth and student-facing workflows.
-
-Recommended pins:
-
-1. `greatindiancompany`
-2. `inspir-landing`
-3. `ai-learning-platform`
-4. `ai-study-platform`
-5. `.github`
-6. A future commerce-ops repo for Shopify app tooling
-
-## Company
-
-Great Indian Company was founded in 2020 and is headquartered in Bengaluru. The name is an assertion: build from India for the world, and use new computing shifts to make education, commerce, operations, and everyday digital systems more accessible.
-
-## Contact
-
-- Website: [greatindiancompany.com](https://www.greatindiancompany.com)
-- X: [@greatindianco](https://x.com/greatindianco)
-- LinkedIn: [Great Indian Company](https://linkedin.com/company/greatindiancompany)
-- Instagram: [@greatindiancompany](https://www.instagram.com/greatindiancompany)
-- Facebook: [Great Indian Company](https://www.facebook.com/greatindiancompany)
+[greatindiancompany.com](https://www.greatindiancompany.com) / [@greatindianco](https://x.com/greatindianco) / [LinkedIn](https://linkedin.com/company/greatindiancompany)
