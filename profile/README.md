@@ -55,16 +55,22 @@ The operating pattern is simple:
 
 ## Repositories
 
-This organization is being set up as the public engineering home for Great Indian Company. Public repositories will collect company-owned product code, Shopify app tooling, ecommerce infrastructure, applied AI experiments, and reusable engineering assets as they are moved under the organization.
+This organization is the public engineering home for Great Indian Company. The current public repos are a mix of company web infrastructure, Inspir surfaces, and AI study-platform experiments.
 
-Recommended pins as repos come online:
+- [.github](https://github.com/greatindiancompany/.github) - organization profile and community defaults.
+- [greatindiancompany](https://github.com/greatindiancompany/greatindiancompany) - Astro rebuild of the company site, with static output, content automation, sitemap generation, and Cloudflare deployment.
+- [inspir-landing](https://github.com/greatindiancompany/inspir-landing) - Astro landing site for Inspir.
+- [ai-learning-platform](https://github.com/greatindiancompany/ai-learning-platform) - AI study companion prototype with React, Node/Express, Supabase, streaming responses, and student tooling.
+- [ai-study-platform](https://github.com/greatindiancompany/ai-study-platform) - AI study platform branch exploring auth and student-facing workflows.
 
-- `.github` - organization profile and community defaults
-- `mark-delivered` - Shopify delivery workflow app
-- `mark-shipping-status` - Shopify shipping status workflow app
-- `greatindiancompany.com` - company site and content system
-- `pet-dukaan` - product archive or public case study
-- `commerce-ops-tools` - shared ecommerce automation utilities
+Recommended pins:
+
+1. `greatindiancompany`
+2. `inspir-landing`
+3. `ai-learning-platform`
+4. `ai-study-platform`
+5. `.github`
+6. A future commerce-ops repo for Shopify app tooling
 
 ## Company
 

@@ -16,7 +16,8 @@ GitHub displays that file on the organization overview page because this reposit
 - [x] Link website and social accounts
 - [x] Highlight live Shopify products
 - [x] Include applied AI and commerce story
-- [ ] Pin public product repositories as they move into the organization
+- [x] Reference current public repositories
+- [ ] Pin public product repositories in the org UI
 - [ ] Add community health files when public collaboration begins
 
 ## Org Metadata
@@ -29,3 +30,11 @@ Suggested organization settings:
 - Location: `Bengaluru, India`
 - X: `https://x.com/greatindianco`
 - LinkedIn: `https://linkedin.com/company/greatindiancompany`
+
+## Suggested Pins
+
+1. `greatindiancompany`
+2. `inspir-landing`
+3. `ai-learning-platform`
+4. `ai-study-platform`
+5. `.github`
