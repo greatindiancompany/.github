@@ -3,7 +3,6 @@
 **Applied AI from India for the world.**
 
 `Bengaluru` / `Dubai` / `London` / `California`  
-`GPT-3 before ChatGPT` / `commerce ops` / `learning systems` / `shipping over theatre`
 
 Great Indian Company is one of India's earliest applied-AI product labs. We started building on GPT-3 in September 2022, before ChatGPT made the category obvious, then spent the next wave shipping real products into messy markets.
 
@@ -39,7 +38,6 @@ Some worked. Some were wrappers. One became a pet-commerce company. That got acq
 - **Pre-ChatGPT GPT-3 apps** - started building applied-AI products around September 2022, roughly two months before ChatGPT launched.
 - **15+ AI products** - shipped across productivity, HRTech, education, and commerce; several hit Product Hunt top-10 launches.
 - **Pet Dukaan** - RAG-based pet-care and shopping assistant that grew into AI-first commerce, reached 100,000+ users, did roughly $500K revenue, then got acquired by Roms N Raks.
-- **Roms N Raks digital division** - post-acquisition ecommerce operations scaled to roughly $7M revenue.
 - **Inspir** - started as a quiz and learning community; now becoming an AI learning platform for free, fun, accessible education.
 
 ## Repos
@@ -47,7 +45,6 @@ Some worked. Some were wrappers. One became a pet-commerce company. That got acq
 ### Company Core
 
 - [greatindiancompany](https://github.com/greatindiancompany/greatindiancompany) - Astro company site, brand surface, blog/content system, sitemap tooling.
-- [.github](https://github.com/greatindiancompany/.github) - this profile and org defaults.
 
 ### Learning Systems
 
