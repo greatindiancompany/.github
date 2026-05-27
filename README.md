@@ -1,26 +1,58 @@
-# Great Indian Company
+# Great Indian Company GitHub Profile
 
-This repo powers the public GitHub org profile for Great Indian Company.
+The public GitHub organization profile for Great Indian Company.
 
-Rendered profile:
+## Mission
 
-```text
-profile/README.md
+Great Indian Company builds applied AI from India for the world: practical software, commerce tooling, and learning products that survive contact with real users.
+
+## What This Repository Contains
+
+Special .github repository that powers the public organization profile through profile/README.md, with suggested pins and metadata for the Great Indian Company GitHub presence.
+
+## Highlights
+
+- Renders the public org profile.
+- Links company sites and social channels.
+- Highlights active public repositories and shipped products.
+
+## Tech Stack
+
+- GitHub organization profile README
+- Markdown
+- Public project index
+
+## Getting Started
+
+```bash
+Edit profile/README.md
+Commit changes to main
 ```
 
-## Suggested Pins
+## Quality Checks
 
-1. `greatindiancompany`
-2. `inspir-landing`
-3. `ai-learning-platform`
-4. `ai-study-platform`
-5. `.github`
+```bash
+Review the rendered organization profile after pushing
+```
 
-## Org Metadata
+## Repository Notes
 
-- Name: `Great Indian Company`
-- Bio: `Applied AI from India for the world.`
-- Website: `https://www.greatindiancompany.com`
-- Location: `Bengaluru, India`
-- X: `https://x.com/greatindianco`
-- LinkedIn: `https://linkedin.com/company/greatindiancompany`
+- This repo is documentation-only. Keep org links current.
+
+## Contributing
+
+Contributions are welcome. The best contributions are specific, tested, and grounded in the product mission. Good places to help include documentation, accessibility, tests, bug reports, UI polish, data validation, and safer AI behavior.
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
+
+## Security
+
+Please do not open public issues for secrets, auth bypasses, data exposure, provider key leaks, or abuse vectors. Follow [SECURITY.md](SECURITY.md).
+
+## Code of Conduct
+
+This project follows [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md). Be direct, kind, and useful.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
