@@ -2,7 +2,7 @@
 
 Thank you for wanting to help.
 
-This project exists because useful software gets better when people can understand it, run it, question it, and improve it. Contributions are welcome from engineers, designers, educators, operators, writers, testers, and curious users.
+This repository is documentation for the organization profile. Contributions are welcome from anyone who can make those files clearer and more accurate.
 
 ## How to Contribute
 
@@ -10,7 +10,7 @@ This project exists because useful software gets better when people can understa
 2. Keep pull requests focused and easy to review.
 3. Include screenshots or short recordings for UI changes.
 4. Include reproduction steps for bugs.
-5. Run the checks before asking for review.
+5. Review the rendered organization profile before asking for review. There is no test suite or deploy step in this repository.
 
 ## Local Setup
 
@@ -31,15 +31,14 @@ Please include:
 
 - What changed.
 - Why it changed.
-- How it was tested.
-- Screenshots for visual changes.
-- Any migration, environment, deployment, or data notes.
+- How you checked the rendered organization profile.
+- Screenshots for visual changes to the profile.
 
 ## Areas That Need Care
 
 - Product clarity: make the experience easier to understand.
 - Accessibility: keyboard navigation, semantic markup, contrast, and screen reader support.
-- Reliability: tests, validation, error states, and deployment hygiene.
+- Accuracy: keep links and profile copy current. This repo has no tests or deploy pipeline.
 - Security: keep secrets server-side and avoid logging private user data.
 - Documentation: help the next contributor build context quickly.
 

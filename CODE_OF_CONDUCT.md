@@ -18,7 +18,7 @@ Unacceptable behavior includes harassment, insults, intimidation, discrimination
 
 Maintainers may remove comments, close issues, block users, or reject contributions that violate this code of conduct.
 
-If you see behavior that makes the project less safe or welcoming, contact the repository owner privately.
+If you see behavior that makes the project less safe or welcoming, email [hello@greatindiancompany.com](mailto:hello@greatindiancompany.com). Do not open a public issue for conduct reports.
 
 ## Spirit
 

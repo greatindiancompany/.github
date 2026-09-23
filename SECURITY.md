@@ -6,7 +6,9 @@ Security matters for this project because public repositories often connect to r
 
 Please do not open a public GitHub issue for security problems.
 
-If you find a vulnerability, contact the repository owner privately with:
+Email [hello@greatindiancompany.com](mailto:hello@greatindiancompany.com). That mailbox is the private contact for this repository.
+
+Include:
 
 - A short summary.
 - Steps to reproduce.

@@ -41,7 +41,7 @@ Review the rendered organization profile after pushing
 
 ## Contributing
 
-Contributions are welcome. The best contributions are specific, tested, and grounded in the product mission. Good places to help include documentation, accessibility, tests, bug reports, UI polish, data validation, and safer AI behavior.
+Contributions are welcome. Good places to help are the organization profile, links, and community-health docs. This repository is documentation-only: there is no test suite and no deploy step.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
