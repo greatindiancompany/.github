@@ -8,7 +8,7 @@ Great Indian Company is one of India's earliest applied-AI product labs. We star
 
 Some worked. Some were wrappers. One became a pet-commerce company. That got acquired. The useful parts became infrastructure.
 
-[Website](https://www.greatindiancompany.com) / [X](https://x.com/greatindianco) / [LinkedIn](https://linkedin.com/company/greatindiancompany) / [Instagram](https://www.instagram.com/greatindiancompany) / [Facebook](https://www.facebook.com/greatindiancompany)
+[Website](https://greatindiancompany.com) / [X](https://x.com/greatindianco) / [LinkedIn](https://linkedin.com/company/greatindiancompany) / [Instagram](https://www.instagram.com/greatindianco) / [Facebook](https://www.facebook.com/greatindiancompany)
 
 ![Applied AI](https://img.shields.io/badge/applied_ai-111111?style=flat)
 ![India](https://img.shields.io/badge/from_india-ff6f00?style=flat)
@@ -68,4 +68,4 @@ We like products that are small enough to ship, useful enough to survive, and we
 
 ## Connect
 
-[greatindiancompany.com](https://www.greatindiancompany.com) / [@greatindianco](https://x.com/greatindianco) / [LinkedIn](https://linkedin.com/company/greatindiancompany)
+[greatindiancompany.com](https://greatindiancompany.com) / [@greatindianco](https://x.com/greatindianco) / [LinkedIn](https://linkedin.com/company/greatindiancompany)
